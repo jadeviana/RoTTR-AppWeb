@@ -5,4 +5,6 @@ This project is personal and not associated to Crystal Dynamics or Square Enix, 
 You can see the presentation for this concept at:
 https://www.behance.net/gallery/65280931/Rise-of-The-Tomb-Raider-Companion-App-Concept
 
+Repository: https://github.com/jadeviana/RoTTR-Companion-App
+
 Made with Unity 2018.2
